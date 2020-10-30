@@ -179,11 +179,14 @@ section {
     shape-margin: 1em;
     margin: 0 -5em 0 0;
   }
+  .product.shoe-left {
+    text-align: right;
+  }
   .product.shoe-left .product__image {
     float: left;
     shape-outside: url("img/shoe-2.png");
     margin: 0 0 0 -5em;
-    shape-margin: 2em;
+    shape-margin: 1em;
   }
 }
 
